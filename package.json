@@ -19,6 +19,10 @@
     "ethereum-waffle": "^4.0.10",
     "ethers": "^5.7.2",
     "hardhat": "^2.12.7",
+    "hardhat-gas-reporter": "^1.0.9",
     "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "alchemy-sdk": "^2.4.3"
   }
 }
